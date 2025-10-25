@@ -1,0 +1,12 @@
+{
+  "name": "n8n-project",
+  "version": "1.0.0",
+  "description": "n8n automation deployed on Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx n8n start"
+  },
+  "dependencies": {
+    "n8n": "^1.82.0"
+  }
+}
